@@ -71,7 +71,7 @@ function App() {
 
         <div className="chat chat-start">
           <div className="chat-header">
-            Obi-Wan Kenobi
+            Enora Ramin
             <time className="text-xs opacity-50">2 hours ago</time>
           </div>
           <div className="chat-bubble">You were the Chosen One!</div>
